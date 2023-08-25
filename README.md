@@ -29,7 +29,7 @@ To run the File Zipper locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/sarthaknimbalkar/File-zipper-using-Huffman-Coding.git
+git clone https://github.com/NarmathaRavi2003/filezipper.git
 ```
 
 2. Navigate to the project directory:
